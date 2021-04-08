@@ -6,7 +6,7 @@
 #Step 4. $ conda install cudatoolkit==10.1.243<br>
 #Step 5. $ conda install cudnn==7.6.5=cuda10.1_0<br>
 #Step 6. $ conda install -c conda-forge jupyterlab<br>
-#Step 7. $ pip install -r requirements.txt<br>
-#Step 8. cd to directory<br>
+#Step 7. cd to directory<br>
+#Step 8. $ pip install -r requirements.txt<br>
 #Step 9. $ jupyter lab<br>
 #Step 10. Run notebook
