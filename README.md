@@ -8,5 +8,5 @@
 #Step 6. cd to directory<br>
 #Step 7. $ pip install -r requirements.txt<br>
 #Step 8. $ jupyter lab<br>
-#Step 9. Run notebook and Initialize dependencies and follow instructions
+#Step 9. Run notebook and Initialize dependencies and follow instructions<br>
 #Step 10. Place the dataset images relative to the class inside the /data folder. (eg. data/class1 & data/class2)<br>
